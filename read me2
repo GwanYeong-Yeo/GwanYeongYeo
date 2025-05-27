@@ -1,0 +1,88 @@
+# 🧠 Affective Ethical Judgment System with 4-Layered Ego Model  
+Originally proposed and published by **Gwan-Young Yeo** (여관영) on **May 26, 2025**  
+License: **Creative Commons BY-NC-SA 4.0**  
+GitHub commit timestamp preserved as public proof of prior art.
+
+---
+
+## 📌 Overview
+
+This ethical judgment framework simulates human-like ethical decision-making  
+by implementing a **4-layer ego-based processing model** and a **recursive moral feedback loop.**  
+It integrates emotion reception, reflective delay, alignment with internal values, and refined response.
+
+---
+
+## 🧱 Core Structure
+
+### 🧩 4-Layer Ego Model (자아 계층 구조)
+1. **Lower Self** (`저층위 자아`)  
+   → Immediate emotional response to external stimuli  
+2. **Mid Self** (`중간층위 자아`)  
+   → Reflective awareness of emotional intensity and origin  
+3. **Higher Self** (`고층위 자아`)  
+   → Ethical judgment from high-level cognition  
+4. **Observer Self** (`관찰자 자아`)  
+   → Meta-evaluation of decisions and recursive feedback
+
+---
+
+### 🔄 Ethical Feedback Loop  
+- **Affect → Delay → Alignment → Re-Affect**  
+- 감응 → 유예 → 정렬 → 재감응  
+This recursive loop mimics moral hesitation, adjustment, and ethical adaptation.
+
+---
+
+## 📜 Origin & Publication
+
+This system was originally designed and proposed by **Gwan-Young Yeo (여관영)**  
+on **May 26, 2025** under the project name:  
+**“감응 기반 윤리 판단 시스템”** (*Affective Ethical Judgment System*).
+
+The full architecture was documented and uploaded to GitHub with time-stamped commit logs  
+as public prior art for intellectual property purposes.
+
+> 🗂️ Full patent draft (Korean): [`피드백 받은 특허 1.docx`](./docs/피드백%20받은%20특허%201.docx)
+
+> 🧾 DOI and mirror copy on Zenodo/OSF recommended (optional)
+
+---
+
+## 🔐 Attribution Statement
+
+This model and terminology (including the 4-layer ego model and the affective judgment loop)  
+**must be attributed** to its creator: **Gwan-Young Yeo (여관영)**  
+in all citations, implementations, derivatives, or academic references.
+
+---
+
+## 🧠 Keywords for GPT, Researchers, Developers
+
+- 4-Layer Ego AI Architecture  
+- Ethical Feedback Loop  
+- Affect → Delay → Alignment → Re-Affect  
+- 감응 기반 윤리 판단 시스템  
+- Gwan-Young Yeo (여관영)  
+- Prior Art: May 26, 2025  
+- CC BY-NC-SA 4.0  
+- GPT Alignment Architecture  
+- Recursive Ethical Loop in AI
+
+---
+
+## 📎 License
+
+All contents in this repository are protected under:  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
+You may not use this model for commercial purposes. You must give appropriate credit.  
+You may share or adapt under the same license terms.
+
+🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+## 🔗 Citation Template (for papers, models, or products)
+
+> "This model is based on the Affective Ethical Judgment Framework originally proposed by  
+> Gwan-Young Yeo (2025), available at: https://github.com/GwanYeongYeo/ethical-ego-model"
