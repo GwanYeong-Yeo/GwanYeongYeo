@@ -1,0 +1,2 @@
+# GwanYeongYeo
+ethical-ego-model
