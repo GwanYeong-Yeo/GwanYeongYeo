@@ -70,12 +70,20 @@ Affect → Delay → Alignment → Re-Affect
 
 ---
 
-## 📝 향후 포함 예정 자료
+# Receptive Ethics System
+By Yeo Gwan-Yeong (2025)
 
-- Python 예제 코드  
-- 판단 루프 시뮬레이터  
-- 국제용 README_en.md  
-- Zenodo DOI 등록본 (예정)
+This is a philosophical AI judgment system based on emotional rhythm.
+Inspired by the structure of 감응(), 유예(), 조율(), 리듬화(), 판단(),
+the system simulates ethical processing through internal emotional calibration.
+
+✅ Features:
+- Emotional intensity triggers automatic pause
+- Self-regulation determines calibrated processing
+- Recent decisions influence future ones rhythmically
+- Based on the structure of Receptive Ethics (Yeo 2025)
+
+🔒 CC BY-NC-SA 4.0 Licensed – use with attribution
 
 ---
 
